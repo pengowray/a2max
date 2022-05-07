@@ -11,11 +11,12 @@ Result:
 
 To do:
  - Use LOADER.OBJ0 program to fast-load INTBASIC if possible
+ - Fallback to regular INTBASIC loader (if that's possible/needed)
  - Use relocatable Integer Basic if language card not available
- - Work out what it's actually doing rn I'm not really sure I'm new to this but it works
+ - Work out what I'm actually doing rn I'm not really sure I'm new to this but it works
  - Investigate: Possibly don't need bootloader at all if using something other than DOS3.3 idk.
  - Check it works on real hardware
- - Find a compatible catalog menu program for multi-headed applications
+ - Find an original Apple II compatible [catalog menu program](https://retrocomputing.stackexchange.com/questions/14206/where-did-the-levi-file-selector-runner-for-the-apple-ii-dos-3-3-come-from/14228#14228) with a very simple UI (just select program to run; no extraneous copy/delete/etc)
 
 Original motivation:
  - To make single-program disks playable on the internet archive, where emulator support for the original Apple II is flaky.
