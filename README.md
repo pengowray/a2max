@@ -25,4 +25,5 @@ Original motivation:
 
 Further reading
  - [Versions of DOS 3.3](https://github.com/cmosher01/Apple-II-Source/blob/master/README-notes) ([archive](https://web.archive.org/web/20220507220847/https://github.com/cmosher01/Apple-II-Source/blob/master/README-notes))
+ - [Integer Basic brief history](https://retrocomputing.stackexchange.com/questions/13137/using-integer-basic-on-apple-ii-plus-without-a-language-card/13139#13139)
  - [How to make a maximally compatible Integer BASIC (Apple II) game disk for the Internet Archive?](https://retrocomputing.stackexchange.com/questions/24455/how-to-make-a-maximally-compatible-integer-basic-apple-ii-game-disk-for-the-in)
